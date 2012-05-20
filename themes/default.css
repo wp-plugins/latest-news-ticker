@@ -1,0 +1,15 @@
+.tickercontainer { /* main background */
+	color:#000000 !important;
+	background: #cccccc !important; 
+}
+ul.newsticker a { /* same as above */
+	color:#000000 !important;
+}
+ul.newsticker li { /* seperator */
+	border-right-color:#dedede !important;
+}
+ul.newsticker li.first_title { /* title */
+	color:#7a7a7a !important;
+	background-color:#000000 !important;
+	border:none !important;
+}
