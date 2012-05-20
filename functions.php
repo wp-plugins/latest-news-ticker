@@ -109,7 +109,7 @@ function sdj_lnt_build_ticker(){
             </ul>
     
     </div>
-    <?php echo CREDIT_FOOTER;
+    <?php echo CREDIT_FOOT;
 	 
 }
 
@@ -194,16 +194,66 @@ function sdj_lnt_options_page() {
 function sdj_lnt_admin_init(){
     register_setting('sdj_lnt_options', 'sdj_lnt_options');	
     add_settings_section('plugin_main', 'Latest News Ticker', 'lnt_text', 'sdj_lnt_plugin');
-	add_settings_field('lnt_location', 'Ticker Location', 'lnt_location', 'sdj_lnt_plugin', 'plugin_main');	
-	add_settings_field('lnt_breaking_optin', 'Show Title', 'lnt_breaking_optin', 'sdj_lnt_plugin', 'plugin_main');	
-	add_settings_field('lnt_speed_drop', 'Ticker Speed', 'lnt_speed_drop', 'sdj_lnt_plugin', 'plugin_main');	
+    
+    add_settings_field('lnt_upgrade1', 'Choose Category', 'lnt_upgrade1', 'sdj_lnt_plugin', 'plugin_main');
+    add_settings_field('lnt_upgrade2', 'Posts to Display', 'lnt_upgrade2', 'sdj_lnt_plugin', 'plugin_main');
+    add_settings_field('lnt_upgrade3', 'Link to Posts', 'lnt_upgrade3', 'sdj_lnt_plugin', 'plugin_main');
+    
+	add_settings_field('lnt_location', 'Ticker Location', 'lnt_location', 'sdj_lnt_plugin', 'plugin_main');
+    add_settings_field('lnt_speed_drop', 'Ticker Speed', 'lnt_speed_drop', 'sdj_lnt_plugin', 'plugin_main');
+
+	add_settings_field('lnt_breaking_optin', 'Show Title', 'lnt_breaking_optin', 'sdj_lnt_plugin', 'plugin_main');
+    add_settings_field('lnt_upgrade4', 'Custom Title Text', 'lnt_upgrade4', 'sdj_lnt_plugin', 'plugin_main');
+
 	add_settings_field('lnt_authors_optin', 'Show Post Authors', 'lnt_authors_optin', 'sdj_lnt_plugin', 'plugin_main');	
 	add_settings_field('lnt_date_optin', 'Show Post Date/Time', 'lnt_date_optin', 'sdj_lnt_plugin', 'plugin_main');
+    add_settings_field('lnt_upgrade5', 'Date / Time Format', 'lnt_upgrade5', 'sdj_lnt_plugin', 'plugin_main');
+
+    add_settings_field('lnt_upgrade6', 'All Caps', 'lnt_upgrade6', 'sdj_lnt_plugin', 'plugin_main');
+    add_settings_field('lnt_upgrade7', 'Colour Scheme', 'lnt_upgrade7', 'sdj_lnt_plugin', 'plugin_main');
 }
 
 function lnt_text() {
     echo '<p>You can customise the features of this plugin with these few fields.</p>';
 }
+
+
+function lnt_upgrade1() {
+    ?>
+    <a href="https://www.e-junkie.com/ecom/gb.php?i=1070330&c=single&cl=205940" target="_blank">Upgrade to Unlock.</a>
+    <?
+}
+function lnt_upgrade2() {
+    ?>
+    <a href="https://www.e-junkie.com/ecom/gb.php?i=1070330&c=single&cl=205940" target="_blank">Upgrade to Unlock.</a>
+    <?
+}
+function lnt_upgrade3() {
+    ?>
+    <a href="https://www.e-junkie.com/ecom/gb.php?i=1070330&c=single&cl=205940" target="_blank">Upgrade to Unlock.</a>
+    <?
+}
+function lnt_upgrade4() {
+    ?>
+    <a href="https://www.e-junkie.com/ecom/gb.php?i=1070330&c=single&cl=205940" target="_blank">Upgrade to Unlock.</a>
+    <?
+}
+function lnt_upgrade5() {
+    ?>
+    <a href="https://www.e-junkie.com/ecom/gb.php?i=1070330&c=single&cl=205940" target="_blank">Upgrade to Unlock.</a>
+    <?
+}
+function lnt_upgrade6() {
+    ?>
+    <a href="https://www.e-junkie.com/ecom/gb.php?i=1070330&c=single&cl=205940" target="_blank">Upgrade to Unlock.</a>
+    <?
+}
+function lnt_upgrade7() {
+    ?>
+    <a href="https://www.e-junkie.com/ecom/gb.php?i=1070330&c=single&cl=205940" target="_blank">Upgrade to Unlock.</a>
+    <?
+}
+    
 
 function lnt_location() {
     $options = get_option('sdj_lnt_options');

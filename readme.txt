@@ -4,7 +4,7 @@ Donate link:http://www.latestnewsticker.com
 Tags: ticker, footed plugin, latest posts, posts
 Requires at least: 3
 Tested up to: 3.31
-Stable tag: 1
+Stable tag: 1.1
 
 Latest news ticker lets you have a ticker on the bottom of your site showing the latest posts. Imagine breaking news for your blog...
 
@@ -27,6 +27,8 @@ Coming soon.
 == Changelog ==
 v1 - Creation
 
+v1.1 - Changes to admin page
+     - Changes to footer
  
 
  
