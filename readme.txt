@@ -1,4 +1,4 @@
-=== Latest News Ticker for WordPress ===
+﻿=== Latest News Ticker for WordPress ===
 Contributors: ShaneJones 
 Donate link:http://www.latestnewsticker.com
 Tags: ticker, footed plugin, latest posts, posts
@@ -30,5 +30,5 @@ v1 - Creation
 v1.1 - Changes to admin page
      - Changes to footer
  
-
+v1.2 - Changes to admin page
  

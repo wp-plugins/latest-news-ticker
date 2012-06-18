@@ -1,14 +1,14 @@
 <?php
 /**
  * @package Latest News Ticker
- * @version 1.1
+ * @version 1.2
  */
 /*
 Plugin Name: Latest News Ticker
 Plugin URI: http://www.latestnewsticker.com
 Description: Latest news ticker
 Author: Shane Jones
-Version: 1.1
+Version: 1.2
 Author URI: http://profiles.wordpress.org/ShaneJones/
 */
 

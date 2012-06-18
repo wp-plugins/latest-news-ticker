@@ -142,7 +142,7 @@ function sdj_lnt_options_page() {
     
     <div style="float:left; width:260px;">
     	<h2>Want More Features?</h2>
-        <p>Check out <a href="http://www.latestnewsticker.com/?utm_source=wordpress-plugins&utm_medium=users-site&utm_campaign=admin">Latest News Ticker Pro</a> for WordPress for a ton of other features and an exclusive bargain launch price. <a href="http://www.latestnewsticker.com/?utm_source=wordpress-plugins&utm_medium=users-site&utm_campaign=admin">Go there&gt;&gt;</a></p>
+        <p>Check out <a href="https://www.e-junkie.com/ecom/gb.php?i=1070330&c=single&cl=205940">Latest News Ticker Pro</a> for WordPress for a ton of other features. Now half price. <a href="https://www.e-junkie.com/ecom/gb.php?i=1070330&c=single&cl=205940">Go there&gt;&gt;</a></p>
     
       <h2>Credits</h2>
         
