@@ -152,7 +152,7 @@ function sdj_lnt_options_page() {
                     <div class="mc-field-group">
                         <label for="mce-EMAIL">Email Address
                     </label>
-                        <input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL"><button type="submit" name="subscribe" id="mc-embedded-subscribe" class="sdj_lnt_admin_green">Sign Up!</button>
+                        <input type="email" value="<?php echo get_bloginfo('admin_email');?>" name="EMAIL" class="required email" id="mce-EMAIL"><button type="submit" name="subscribe" id="mc-embedded-subscribe" class="sdj_lnt_admin_green">Sign Up!</button>
                     </div>
                         <div id="mce-responses" class="clear">
                             <div class="response" id="mce-error-response" style="display:none">
@@ -276,37 +276,37 @@ function lnt_text() {
 
 function lnt_upgrade1() {
     ?>
-    <a href="https://www.e-junkie.com/ecom/gb.php?i=1070330&c=single&cl=205940" target="_blank">Upgrade to Unlock.</a>
+    <a href="https://www.e-junkie.com/ecom/gb.php?i=1070330&c=single&cl=205940" target="_blank">Upgrade to Activate.</a>
     <?
 }
 function lnt_upgrade2() {
     ?>
-    <a href="https://www.e-junkie.com/ecom/gb.php?i=1070330&c=single&cl=205940" target="_blank">Upgrade to Unlock.</a>
+    <a href="https://www.e-junkie.com/ecom/gb.php?i=1070330&c=single&cl=205940" target="_blank">Upgrade to Activate.</a>
     <?
 }
 function lnt_upgrade3() {
     ?>
-    <a href="https://www.e-junkie.com/ecom/gb.php?i=1070330&c=single&cl=205940" target="_blank">Upgrade to Unlock.</a>
+    <a href="https://www.e-junkie.com/ecom/gb.php?i=1070330&c=single&cl=205940" target="_blank">Upgrade to Activate.</a>
     <?
 }
 function lnt_upgrade4() {
     ?>
-    <a href="https://www.e-junkie.com/ecom/gb.php?i=1070330&c=single&cl=205940" target="_blank">Upgrade to Unlock.</a>
+    <a href="https://www.e-junkie.com/ecom/gb.php?i=1070330&c=single&cl=205940" target="_blank">Upgrade to Activate.</a>
     <?
 }
 function lnt_upgrade5() {
     ?>
-    <a href="https://www.e-junkie.com/ecom/gb.php?i=1070330&c=single&cl=205940" target="_blank">Upgrade to Unlock.</a>
+    <a href="https://www.e-junkie.com/ecom/gb.php?i=1070330&c=single&cl=205940" target="_blank">Upgrade to Activate.</a>
     <?
 }
 function lnt_upgrade6() {
     ?>
-    <a href="https://www.e-junkie.com/ecom/gb.php?i=1070330&c=single&cl=205940" target="_blank">Upgrade to Unlock.</a>
+    <a href="https://www.e-junkie.com/ecom/gb.php?i=1070330&c=single&cl=205940" target="_blank">Upgrade to Activate.</a>
     <?
 }
 function lnt_upgrade7() {
     ?>
-    <a href="https://www.e-junkie.com/ecom/gb.php?i=1070330&c=single&cl=205940" target="_blank">Upgrade to Unlock.</a>
+    <a href="https://www.e-junkie.com/ecom/gb.php?i=1070330&c=single&cl=205940" target="_blank">Upgrade to Activate.</a>
     <?
 }
     
