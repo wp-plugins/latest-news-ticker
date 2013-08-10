@@ -1,7 +1,7 @@
 <?php
 /**
  * @package Latest News Ticker
- * @version 1.31
+ * @version 1.32
  */
 /*
 Plugin Name: Latest News Ticker
@@ -26,5 +26,6 @@ if (is_admin()){
 }
 
 register_activation_hook(__FILE__, 'sdj_lnt_defaults');
+register_deactivation_hook(__FILE__, 'sdj_lnt_defaults_remove');
 
 ?>

@@ -37,4 +37,7 @@ v1.21 - Further changes to admin page
 v1.3 - Cleaned up code and added admin template
 
 v1.31 - Auto pop email for signups
+
+v1.32 - Bugfix for WordPress 3.6
+      - Deactivation bits
  
