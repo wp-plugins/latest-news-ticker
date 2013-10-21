@@ -115,9 +115,7 @@ function sdj_lnt_build_ticker(){
         
             ?>
             
-            <?php if($lnt_options['lnt_breaking']){ ?>
-                <li>Created with <a rel="nofollow" href="http://www.latestnewsticker.com/?utm_source=wordpress-plugins&utm_medium=users-site&utm_campaign=in-ticker">Latest News Ticker</a> a Wordpress Plugin by <a rel="nofollow" href="http://www.shanejones.co.uk/?utm_source=wordpress-plugins&utm_medium=users-site&utm_campaign=lnt-in-ticker">Shane Jones</a></li>
-            <?php } ?>
+
             </ul>
     
     </div>

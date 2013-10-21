@@ -8,7 +8,7 @@ Plugin Name: Latest News Ticker
 Plugin URI: http://www.latestnewsticker.com
 Description: With Latest News Ticker for WordPress you too can have a news ticker along the bottom of your site highlighting the latest posts on your site.
 Author: Shane Jones
-Version: 1.31
+Version: 1.33
 Author URI: http://profiles.wordpress.org/ShaneJones/
 */
 
