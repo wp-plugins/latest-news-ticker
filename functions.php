@@ -192,9 +192,9 @@ function sdj_lnt_options_page() {
 
                 <div class="sdj_lnt_admin_box">
                     <h2>About the Author</h2>
-                    <p>Shane Jones is a Facebook App developer, Wordpress developer who specialises in PHP based web apps.</p>
+                    <p>Shane Jones is a Facebook App developer and Wordpress developer who specialises in PHP based web apps.</p>
                     <h2>Want More Features?</h2>
-        <p>Check out <a href="https://www.e-junkie.com/ecom/gb.php?i=1070330&c=single&cl=205940">Latest News Ticker Pro</a> for WordPress for a ton of other features.<a href="https://www.e-junkie.com/ecom/gb.php?i=1070330&c=single&cl=205940">Go there&gt;&gt;</a></p>
+        <p>Check out <a href="http://peadig.com/wordpress-plugins/latest-news-ticker-pro/">Latest News Ticker Pro</a> for WordPress for a ton of other features.<a href="http://peadig.com/wordpress-plugins/latest-news-ticker-pro/">Go there&gt;&gt;</a></p>
 
                     <?php
                     $size = 50;
@@ -216,14 +216,14 @@ function sdj_lnt_options_page() {
                               fjs.parentNode.insertBefore(js, fjs);
                             }(document, 'script', 'facebook-jssdk'));</script>
                             
-                            <div class="fb-like" data-href="http://www.latestnewsticker.com/" data-send="false" data-layout="button_count" data-width="250" data-show-faces="false"></div>
+                            <div class="fb-like" data-href="http://peadig.com/wordpress-plugins/latest-news-ticker-pro/" data-send="false" data-layout="button_count" data-width="250" data-show-faces="false"></div>
                             <br><br>
-                            <a href="https://twitter.com/share" data-url="http://www.latestnewsticker.com/" class="twitter-share-button" data-text="Latest News Ticker Lite for WordPress" data-via="shanejones" data-hashtags="wordpress">Tweet</a>
+                            <a href="https://twitter.com/share" data-url="http://peadig.com/wordpress-plugins/latest-news-ticker-pro/" class="twitter-share-button" data-text="Latest News Ticker Lite for WordPress" data-via="shanejones" data-hashtags="wordpress">Tweet</a>
                     
                     <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
                             <br><br>
                             <!-- Place this tag where you want the su badge to render -->
-                            <su:badge layout="3" location="http://www.latestnewsticker.com/"></su:badge>
+                            <su:badge layout="3" location="http://peadig.com/wordpress-plugins/latest-news-ticker-pro/"></su:badge>
                             
                             <!-- Place this snippet wherever appropriate --> 
                              <script type="text/javascript"> 
@@ -278,43 +278,43 @@ function sdj_lnt_admin_init(){
 }
 
 function lnt_text() {
-    echo '<p>You can customise the features of this plugin with these few fields. To gain access to app the other features of this application, please consider upgrading for the small price of $19.99.</p>';
+    echo '<p>You can customise the features of this plugin with these few fields. To gain access to app the other features of this application, please consider upgrading for the small price of $19.99 for a single site (discounts available).</p>';
 }
 
 
 function lnt_upgrade1() {
     ?>
-    <a href="https://www.e-junkie.com/ecom/gb.php?i=1070330&c=single&cl=205940" target="_blank">Upgrade to Activate.</a>
+    <a href="http://peadig.com/wordpress-plugins/latest-news-ticker-pro/" target="_blank">Upgrade to Activate.</a>
     <?
 }
 function lnt_upgrade2() {
     ?>
-    <a href="https://www.e-junkie.com/ecom/gb.php?i=1070330&c=single&cl=205940" target="_blank">Upgrade to Activate.</a>
+    <a href="http://peadig.com/wordpress-plugins/latest-news-ticker-pro/" target="_blank">Upgrade to Activate.</a>
     <?
 }
 function lnt_upgrade3() {
     ?>
-    <a href="https://www.e-junkie.com/ecom/gb.php?i=1070330&c=single&cl=205940" target="_blank">Upgrade to Activate.</a>
+    <a href="http://peadig.com/wordpress-plugins/latest-news-ticker-pro/" target="_blank">Upgrade to Activate.</a>
     <?
 }
 function lnt_upgrade4() {
     ?>
-    <a href="https://www.e-junkie.com/ecom/gb.php?i=1070330&c=single&cl=205940" target="_blank">Upgrade to Activate.</a>
+    <a href="http://peadig.com/wordpress-plugins/latest-news-ticker-pro/" target="_blank">Upgrade to Activate.</a>
     <?
 }
 function lnt_upgrade5() {
     ?>
-    <a href="https://www.e-junkie.com/ecom/gb.php?i=1070330&c=single&cl=205940" target="_blank">Upgrade to Activate.</a>
+    <a href="http://peadig.com/wordpress-plugins/latest-news-ticker-pro/" target="_blank">Upgrade to Activate.</a>
     <?
 }
 function lnt_upgrade6() {
     ?>
-    <a href="https://www.e-junkie.com/ecom/gb.php?i=1070330&c=single&cl=205940" target="_blank">Upgrade to Activate.</a>
+    <a href="http://peadig.com/wordpress-plugins/latest-news-ticker-pro/" target="_blank">Upgrade to Activate.</a>
     <?
 }
 function lnt_upgrade7() {
     ?>
-    <a href="https://www.e-junkie.com/ecom/gb.php?i=1070330&c=single&cl=205940" target="_blank">Upgrade to Activate.</a>
+    <a href="http://peadig.com/wordpress-plugins/latest-news-ticker-pro/" target="_blank">Upgrade to Activate.</a>
     <?
 }
     

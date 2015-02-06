@@ -12,7 +12,7 @@ Latest news ticker lets you have a ticker on the bottom of your site showing the
 
 Latest news ticker lets you have a ticker on the bottom of your site showing the latest posts. Imagine breaking news for your blog...
 
-This is the lite version of Latest News Ticker, for the version with a ton of other features please see <a href=\"http://www.latestnewsticker.com\">Latest News Ticker Pro</a>
+This is the lite version of Latest News Ticker, for the version with a ton of other features please see <a href=\"http://peadig.com/wordpress-plugins/latest-news-ticker-pro/\">Latest News Ticker Pro</a>
 
 Pro version includes many features including colour themes and further cusomisations
 
@@ -41,5 +41,6 @@ v1.31 - Auto pop email for signups
 v1.32 - Bugfix for WordPress 3.6
       - Deactivation bits
 
-v1.33 - Removing Footer links
- 
+v1.33 - Removing Footer links 
+
+v1.34 -
