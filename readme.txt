@@ -1,10 +1,10 @@
 ﻿=== Latest News Ticker for WordPress ===
-Contributors: ShaneJones 
+Contributors: ShaneJones, peadig
 Donate link:http://www.latestnewsticker.com
 Tags: ticker, footed plugin, latest posts, posts
 Requires at least: 3.3
 Tested up to: 3.4
-Stable tag: 1.34
+Stable tag: 1.35
 
 Latest news ticker lets you have a ticker on the bottom of your site showing the latest posts. Imagine breaking news for your blog...
 
@@ -23,7 +23,7 @@ Extract the zip file and just drop the contents in the wp-content/plugins/ direc
 Alternatively head to the plugins page in your Wordpress backend and Search for \"Latest News Ticker\"
 == Frequently Asked Questions ==
 
-Coming soon.
+
 == Changelog ==
 v1 - Creation
 
@@ -43,4 +43,6 @@ v1.32 - Bugfix for WordPress 3.6
 
 v1.33 - Removing Footer links 
 
-v1.34 -
+v1.34 - Bug fixing
+
+v1.35 - Removing an error if both the free and premium versions are both activated.
